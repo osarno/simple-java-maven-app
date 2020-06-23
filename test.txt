@@ -1,2 +1,3 @@
 Esercizio 2 Creazione branch
 Esercizio 3 Eliminazione branch
+Esercizio 5 Genera conflitto
